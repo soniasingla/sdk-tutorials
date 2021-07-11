@@ -90,6 +90,11 @@ module.exports = {
               directory: true,
             },
             {
+              title: "How to access the frontend with Starport",
+              path: "/starport-frontend/",
+              directory: true,
+            },
+            {
               title: "Understand the Liquidity Module",
               path: "liquidity-module/",
               directory: true,
